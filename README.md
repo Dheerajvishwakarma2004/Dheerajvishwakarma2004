@@ -1,62 +1,71 @@
-<h1 align="center">Dheeraj Vishwakarma</h1>
-<p align="center">
-  🚀 Building systems across Web • Mobile • AI/ML • IoT
-</p>
+<div align="center">
 
-<p align="center">
-  🔗 <a href="https://github.com/Dheerajvishwakarma2004">GitHub</a> •
-  💼 <a href="https://linkedin.com/in/dheeraj-vishwakarma-907264288">LinkedIn</a>
-</p>
+# Hi, I'm Dheeraj Vishwakarma
+
+### Full-Stack Developer | Mobile & IoT Explorer | AI/ML Enthusiast
+
+Building practical systems across web, mobile, and intelligent technologies.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheeraj-vishwakarma-907264288)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dheerajvishwakarma2004)
+
+</div>
 
 ---
 
-## 🧠 About
+## About Me
 
 I’m a developer focused on building practical, end-to-end systems rather than isolated features.  
-My work spans across multiple domains with an emphasis on understanding how different technologies integrate into scalable solutions.
+I work across multiple domains with an emphasis on how technologies integrate into scalable, real-world solutions.
 
-- 🎯 Focused on **real-world problem solving**
-- ⚙️ Comfortable across **full-stack + mobile + system-level thinking**
-- 🤖 Experience exploring **AI/ML and IoT integrations**
-- 📚 Prefer **learning by building over passive consumption**
-
----
-
-## 🛠 Tech Stack
-
-**💻 Languages**  
-`JavaScript` `TypeScript` `Python` `C++`  
-
-**🎨 Frontend**  
-`React.js` `Next.js` `TailwindCSS` `HTML5` `CSS3`  
-
-**🧩 Backend**  
-`Node.js` `Express.js` `Django`  
-
-**🗄 Database**  
-`MongoDB` `PostgreSQL` `Firebase` `Supabase`  
-
-**📱 Mobile & IoT**  
-`React Native` `Flutter` `Arduino` `Raspberry Pi`  
-
-**🧠 AI/ML**  
-`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PyTorch` `OpenAI`  
-
-**⚒ Tools**  
-`Git` `GitHub` `Docker` `Vercel` `VS Code`  
+- Focus on real-world problem solving  
+- Comfortable with full-stack and cross-domain development  
+- Experience in AI/ML and IoT integrations  
+- Strong preference for learning by building  
 
 ---
 
-## ⚡ Highlights
+## Tech Stack
 
-- 🧩 Built across **multiple domains**, not limited to one stack  
-- 🤝 Experience in **collaborative and hackathon environments**  
-- 🚀 Strong focus on **implementation over theory**  
-- 🔍 Continuously exploring **new technologies with practical use-cases**
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Mobile & IoT
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### AI/ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dheerajvishwakarma2004&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -68,3 +77,9 @@ My work spans across multiple domains with an emphasis on understanding how diff
 </p>
 
 ---
+
+<div align="center">
+
+Focused on building systems that solve real problems through practical implementation.
+
+</div>
