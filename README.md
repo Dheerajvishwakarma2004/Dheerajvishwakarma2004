@@ -67,10 +67,3 @@ Full-Stack Developer • Mobile & IoT Explorer • AI/ML Enthusiast
 
 ---
 
-## <div align='center'>⚠️ Note</div>
-
-<div align="center">
-
-Focused on building **real-world systems**, not just tutorial-based projects.
-
-</div>
