@@ -1,69 +1,84 @@
-# <div align='center'> Hi, I'm Dheeraj Vishwakarma </div>
-
-<div align='center'>
-Full-Stack Developer • Mobile & IoT Explorer • AI/ML Enthusiast
-</div>
-
----
-
-## <div align='center'>💻 Tech Stack</div>
-
-<div align="center">
-
-**Languages:** `JavaScript` `TypeScript` `Python` `C++`  
-**Frontend:** `React.js` `Next.js` `TailwindCSS` `HTML5` `CSS3` `Vue.js` `Svelte`  
-**Backend:** `Node.js` `Express.js` `Django`  
-**Database:** `MongoDB` `PostgreSQL` `Firebase` `Supabase`  
-**Mobile & IoT:** `React Native` `Flutter` `Arduino` `Raspberry Pi`  
-**AI/ML:** `Pandas` `NumPy` `Scikit-Learn` `TensorFlow` `PyTorch` `OpenAI`  
-**Tools:** `Git` `GitHub` `Docker` `Vercel` `VS Code`  
-
-</div>
-
----
-
-## <div align='center'>⚡ Highlights</div>
-
-<div align="center">
-
-💡 Built across **Web, Mobile, AI/ML, and IoT domains**  
-🏆 Participated in **hackathons and collaborative projects**  
-🚀 Focused on **practical implementation and real-world systems**  
-📚 Continuously learning and exploring new technologies  
-
-</div>
-
----
-
-## <div align='center'>📊 GitHub Analytics</div>
-
+<h1 align="center">Dheeraj Vishwakarma</h1>
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Dheerajvishwakarma2004&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180em"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerajvishwakarma2004&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180em"
-  />
+  Building systems across Web • Mobile • AI/ML • IoT
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=Dheerajvishwakarma2004&theme=tokyonight&hide_border=true"
-  />
+  <a href="https://github.com/Dheerajvishwakarma2004">GitHub</a> •
+  <a href="https://linkedin.com/in/dheeraj-vishwakarma-907264288">LinkedIn</a>
 </p>
 
 ---
 
-## <div align='center'>🤝 Connect</div>
+## About
 
-<div align="center">
+I’m a developer focused on building practical, end-to-end systems rather than isolated features.  
+My work spans across multiple domains with an emphasis on understanding how different technologies integrate into scalable solutions.
 
-[GitHub](https://github.com/Dheerajvishwakarma2004) • 
-[LinkedIn](https://linkedin.com/in/dheeraj-vishwakarma-907264288)
-
-</div>
+- Focused on **real-world problem solving**
+- Comfortable across **full-stack + mobile + system-level thinking**
+- Experience exploring **AI/ML and IoT integrations**
+- Prefer **learning by building over passive consumption**
 
 ---
 
+## Tech Stack
+
+**Core**
+
+JavaScript • TypeScript • Python • C++
+
+
+**Frontend**
+
+React • Next.js • Tailwind CSS • HTML • CSS
+
+
+**Backend**
+
+Node.js • Express • Django
+
+
+**Data & Databases**
+
+MongoDB • PostgreSQL • Firebase • Supabase
+
+
+**Mobile & IoT**
+
+React Native • Flutter • Arduino • Raspberry Pi
+
+
+**AI / ML**
+
+Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • OpenAI
+
+
+**Tools**
+
+Git • GitHub • Docker • Vercel • VS Code
+
+
+---
+
+## Highlights
+
+- Built across **multiple domains** instead of sticking to a single stack  
+- Experience working in **collaborative and hackathon environments**  
+- Strong focus on **implementation, not just concepts**  
+- Continuously exploring **new technologies with practical use-cases**
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dheerajvishwakarma2004&show_icons=true&hide_title=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerajvishwakarma2004&layout=compact&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheerajvishwakarma2004&theme=minimal&hide_border=true"/>
+</p>
+
+---
