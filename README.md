@@ -28,7 +28,7 @@ My work spans across multiple domains with an emphasis on understanding how diff
 `JavaScript` `TypeScript` `Python` `C++`  
 
 **🎨 Frontend**  
-`React.js` `Next.js` `TailwindCSS` `HTML5` `CSS3` `Vue.js` `Svelte`  
+`React.js` `Next.js` `TailwindCSS` `HTML5` `CSS3`  
 
 **🧩 Backend**  
 `Node.js` `Express.js` `Django`  
