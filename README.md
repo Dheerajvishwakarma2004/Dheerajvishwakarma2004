@@ -66,6 +66,7 @@ I work across multiple domains with an emphasis on how technologies integrate in
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </div>
+
 ---
 
 ## GitHub Activity
