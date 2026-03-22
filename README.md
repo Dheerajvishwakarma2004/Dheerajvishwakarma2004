@@ -24,40 +24,26 @@ My work spans across multiple domains with an emphasis on understanding how diff
 
 ## Tech Stack
 
-**Core**
+**Languages**  
+`JavaScript` `TypeScript` `Python` `C++`  
 
-JavaScript • TypeScript • Python • C++
+**Frontend**  
+`React.js` `Next.js` `TailwindCSS` `HTML5` `CSS3` `Vue.js` `Svelte`  
 
+**Backend**  
+`Node.js` `Express.js` `Django`  
 
-**Frontend**
+**Database**  
+`MongoDB` `PostgreSQL` `Firebase` `Supabase`  
 
-React • Next.js • Tailwind CSS • HTML • CSS
+**Mobile & IoT**  
+`React Native` `Flutter` `Arduino` `Raspberry Pi`  
 
+**AI/ML**  
+`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PyTorch` `OpenAI`  
 
-**Backend**
-
-Node.js • Express • Django
-
-
-**Data & Databases**
-
-MongoDB • PostgreSQL • Firebase • Supabase
-
-
-**Mobile & IoT**
-
-React Native • Flutter • Arduino • Raspberry Pi
-
-
-**AI / ML**
-
-Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • OpenAI
-
-
-**Tools**
-
-Git • GitHub • Docker • Vercel • VS Code
-
+**Tools**  
+`Git` `GitHub` `Docker` `Vercel` `VS Code`  
 
 ---
 
@@ -73,12 +59,12 @@ Git • GitHub • Docker • Vercel • VS Code
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dheerajvishwakarma2004&show_icons=true&hide_title=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerajvishwakarma2004&layout=compact&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dheerajvishwakarma2004&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerajvishwakarma2004&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheerajvishwakarma2004&theme=minimal&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Dheerajvishwakarma2004&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
